@@ -5,6 +5,7 @@ git 설정
 git config --global user.name "kim"
 git config --global user.email "kbs5215553@g.shingu.ac.kr"
 
+배고픕니다. 득근합시다.
 
 두번째 수정
 
